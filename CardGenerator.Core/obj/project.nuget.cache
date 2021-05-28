@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGtz21+rY0qOzUBoiqalrXMFvMORa+hq+fncXFAr9YMbN6Lh4opkucRXD4+mmKCrjQz7X8EYDZvdJFj+vtc1eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.Core\\CardGenerator.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Was\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Was\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
