@@ -10,3 +10,15 @@ C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Infrastruc
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.dll
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.pdb
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\bin\Debug\netstandard2.1\CardGenerator.Infrastructure.deps.json
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\bin\Debug\netstandard2.1\CardGenerator.Infrastructure.dll
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\bin\Debug\netstandard2.1\CardGenerator.Infrastructure.pdb
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\bin\Debug\netstandard2.1\CardGenerator.Core.dll
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\bin\Debug\netstandard2.1\CardGenerator.Core.pdb
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.csprojAssemblyReference.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.AssemblyInfo.cs
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.csproj.CopyComplete
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.dll
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Infrastructure\obj\Debug\netstandard2.1\CardGenerator.Infrastructure.pdb

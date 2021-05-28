@@ -7,3 +7,12 @@ C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Core\obj\D
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.csproj.CoreCompileInputs.cache
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.dll
 C:\Users\Was\Documents\Projetos\Vaivoa - Teste Técnico\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.pdb
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\bin\Debug\netstandard2.0\CardGenerator.Core.deps.json
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\bin\Debug\netstandard2.0\CardGenerator.Core.dll
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\bin\Debug\netstandard2.0\CardGenerator.Core.pdb
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.csprojAssemblyReference.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.AssemblyInfo.cs
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.dll
+C:\Users\wmenezes\Desktop\card-generator\CardGenerator.Core\obj\Debug\netstandard2.0\CardGenerator.Core.pdb

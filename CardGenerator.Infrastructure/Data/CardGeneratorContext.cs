@@ -20,6 +20,14 @@ namespace CardGenerator.Infrastructure.Data
 
         public virtual DbSet<Card> Cards { get; set; }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=CardGenerator;Integrated Security = true");
+            }
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS");
@@ -37,8 +45,10 @@ namespace CardGenerator.Infrastructure.Data
                 entity.Property(e => e.Email)
                     .HasMaxLength(100)
                     .IsUnicode(false);
-            });
 
+                entity.Property(e => e.CreatedAt).HasColumnType("date");
+            });
         }
+
     }
 }

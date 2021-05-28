@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace CardGenerator.Infrastructure.Repositories
@@ -19,7 +18,7 @@ namespace CardGenerator.Infrastructure.Repositories
         }
         public async Task<IEnumerable<Card>> GetCardsByEmail(string email)
         {
-            var cards = await _context.Cards.Where(card => card.Email == email).ToListAsync();
+            var cards = await _context.Cards.Where(card => card.Email == email).OrderBy(card => card.CreatedAt).ToListAsync();
 
             return cards;
         }
@@ -32,6 +31,7 @@ namespace CardGenerator.Infrastructure.Repositories
             Card card = new Card();
             card.Email = email;
             card.CardNumber = cardNumber;
+            card.CreatedAt = DateTime.Now;
 
             var post = await _context.Cards.AddAsync(card);
             await _context.SaveChangesAsync();

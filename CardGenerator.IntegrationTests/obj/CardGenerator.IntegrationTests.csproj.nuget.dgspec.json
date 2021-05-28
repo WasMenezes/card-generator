@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj": {}
+    "C:\\Users\\wmenezes\\Desktop\\card-generator\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj": {
+    "C:\\Users\\wmenezes\\Desktop\\card-generator\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj",
+        "projectUniqueName": "C:\\Users\\wmenezes\\Desktop\\card-generator\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj",
         "projectName": "CardGenerator.IntegrationTests",
-        "projectPath": "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj",
-        "packagesPath": "C:\\Users\\Was\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Was\\Documents\\Projetos\\Vaivoa - Teste Técnico\\CardGenerator.IntegrationTests\\obj\\",
+        "projectPath": "C:\\Users\\wmenezes\\Desktop\\card-generator\\CardGenerator.IntegrationTests\\CardGenerator.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\wmenezes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wmenezes\\Desktop\\card-generator\\CardGenerator.IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Was\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wmenezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -65,12 +70,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20601.7\\RuntimeIdentifierGraph.json"
         }
       }
     }
